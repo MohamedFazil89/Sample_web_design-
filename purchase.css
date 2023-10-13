@@ -1,0 +1,119 @@
+body {
+    background-color: #4b028b;
+}
+
+.Sigup-1 {
+    display: flex;
+    margin-left: 500px;
+}
+
+
+.Sign {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50px;
+    background-color: #211f98;
+    cursor: pointer;
+    height: 50px;
+    width: 110px;
+    font-weight: bold;
+    font-size: 17px;
+    border-color: transparent;
+    color: white;
+    padding: 10px 10px;
+    margin-left: 30px;
+
+}
+
+.Sign:hover {
+    background-color: rgb(95, 210, 210)
+}
+
+.top-bar {
+    display: flex;
+    flex-direction: row;
+    padding: 50;
+    margin-left: 400px;
+
+}
+
+h2{
+    font-size: 30px;
+    font-family: "Helvetica";
+
+}
+.h3s {
+    color: rgb(160, 160, 160);
+    outline: 4dvi;
+    font-family: "Helvetica";
+    margin-left: 500px;
+
+}
+
+.h3ss {
+    color: rgb(160, 160, 160);
+    outline: 4dvi;
+    font-family: "Helvetica";
+    justify-content: space-around;
+    margin-left: 20px;
+
+}
+
+h4 {
+    color: white;
+    font-family: "Helvetica";
+}
+
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: "Helvetica";
+    color: white;
+    margin-left: 20px;
+}
+
+p {
+    font-family: "Helvetica";
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.input {
+    display: inline-block;
+    padding: 10px 10px;
+    width: 300px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: transparent;
+    border-color: white;
+    color: rgb(171, 167, 167);
+    margin-left: 50px;
+}
+
+.click {
+    display: inline-block;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50px;
+    background-color: aqua;
+    cursor: pointer;
+    height: 50px;
+    width: 110px;
+    font-weight: bold;
+    font-size: 17px;
+    border-color: transparent;
+    color: white;
+    padding: 10px 10px;
+    margin-left: 30px;
+
+}
